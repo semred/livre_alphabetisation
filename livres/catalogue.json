@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-12T16:25:23.485Z",
+  "derniereMAJ": "2026-10-12T18:13:19.915Z",
   "livres": [
     {
       "id": "taghdia-tifl",
@@ -11,8 +11,8 @@
       "auteur": "فَرِيقُ التَّوْعِيَةِ الصِّحِّيَّةِ",
       "nombrePages": 1,
       "fichierJSON": "livres/taghdia-tifl/livre.json",
-      "dateAjout": "2026-10-12T16:17:25.591Z",
-      "dateMAJ": "2026-10-12T16:25:23.483Z"
+      "dateAjout": "2026-10-12T18:12:23.041Z",
+      "dateMAJ": "2026-10-12T18:13:19.914Z"
     }
   ]
 }
