@@ -1,0 +1,30 @@
+{
+  "id": "taghdia-tifl",
+  "titre": "التَّغْذِيَةُ السَّلِيمَةُ لِلطِّفْلِ",
+  "couverture": "livres/taghdia-tifl/couverture.jpg",
+  "description": "كِتَابٌ مُيَسَّرٌ لِلْآبَاءِ وَالْأُمَّهَاتِ...",
+  "audioLivre": null,
+  "auteur": "فَرِيقُ التَّوْعِيَةِ",
+  "niveau": "moyen",
+  "pages": [
+    {
+      "numero": 1,
+      "titreSection": "",
+      "audioMode": "mp3",
+      "image": "livres/taghdia-tifl/page1.jpg",
+      "audioPage": "livres/taghdia-tifl/page1.mp3",
+      "displayText": "",
+      "texte": "",
+      "mots": [],
+      "vocabulaire": [],
+      "exercices": [],
+      "notes": ""
+    }
+  ],
+  "resume": {
+    "texte": "",
+    "audioMode": "mp3",
+    "audio": null
+  },
+  "dateCreation": "2026-10-12T10:44:39.320Z"
+}
