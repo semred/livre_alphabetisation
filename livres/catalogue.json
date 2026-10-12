@@ -1,0 +1,18 @@
+{
+  "derniereMAJ": "2026-10-12T18:49:44.767Z",
+  "livres": [
+    {
+      "id": "taghdia-tifl",
+      "titre": "التَّغْذِيَةُ السَّلِيمَةُ لِلطِّفْلِ",
+      "description": "كِتَابٌ مُيَسَّرٌ لِلْآبَاءِ وَالْأُمَّهَاتِ، يَشْرَحُ أُسُسَ التَّغْذِيَةِ الصِّحِّيَّةِ لِلْأَطْفَالِ.",
+      "couverture": "livres/taghdia-tifl/couverture.jpg",
+      "resume": "",
+      "niveau": "moyen",
+      "auteur": "فَرِيقُ التَّوْعِيَةِ الصِّحِّيَّةِ",
+      "nombrePages": 1,
+      "fichierJSON": "livres/taghdia-tifl/livre.json",
+      "dateAjout": "2026-10-12T18:48:56.924Z",
+      "dateMAJ": "2026-10-12T18:49:44.767Z"
+    }
+  ]
+}
