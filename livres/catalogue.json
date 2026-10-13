@@ -1,18 +1,18 @@
 {
-  "derniereMAJ": "2026-10-12T19:12:09.659Z",
+  "derniereMAJ": "2026-10-13T15:54:10.379Z",
   "livres": [
     {
       "id": "taghdia-tifl",
       "titre": "التَّغْذِيَةُ السَّلِيمَةُ لِلطِّفْلِ",
       "description": "كِتَابٌ مُيَسَّرٌ لِلْآبَاءِ وَالْأُمَّهَاتِ، يَشْرَحُ أُسُسَ التَّغْذِيَةِ الصِّحِّيَّةِ لِلْأَطْفَالِ.",
       "couverture": "livres/taghdia-tifl/couverture.jpg",
-      "resume": "نحتاج لغذائ متوازن ، صحي و كافي لتلبية أحتياجات الجسم ",
+      "resume": "",
       "niveau": "moyen",
       "auteur": "فَرِيقُ التَّوْعِيَةِ الصِّحِّيَّةِ",
-      "nombrePages": 2,
+      "nombrePages": 1,
       "fichierJSON": "livres/taghdia-tifl/livre.json",
-      "dateAjout": "2026-10-12T19:03:00.314Z",
-      "dateMAJ": "2026-10-12T19:12:09.659Z"
+      "dateAjout": "2026-10-13T15:51:16.704Z",
+      "dateMAJ": "2026-10-13T15:54:10.378Z"
     }
   ]
 }
