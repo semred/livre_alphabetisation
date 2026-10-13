@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-13T15:54:10.379Z",
+  "derniereMAJ": "2026-10-13T16:04:35.743Z",
   "livres": [
     {
       "id": "taghdia-tifl",
@@ -12,7 +12,7 @@
       "nombrePages": 1,
       "fichierJSON": "livres/taghdia-tifl/livre.json",
       "dateAjout": "2026-10-13T15:51:16.704Z",
-      "dateMAJ": "2026-10-13T15:54:10.378Z"
+      "dateMAJ": "2026-10-13T16:04:35.743Z"
     }
   ]
 }
