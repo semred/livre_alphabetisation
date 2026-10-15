@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-15T15:12:59.247Z",
+  "derniereMAJ": "2026-10-15T19:07:22.430Z",
   "livres": [
     {
       "id": "taghdia-tifl",
@@ -9,9 +9,9 @@
       "resume": "يحتاج الطفل لغذاء متوازن و كافي و متنوع لينمو وبكون بصحة جيدة و يكون نشطا و ناجحا في دراسته",
       "niveau": "moyen",
       "auteur": "فَرِيقُ التَّوْعِيَةِ الصِّحِّيَّةِ",
-      "nombrePages": 1,
+      "nombrePages": 2,
       "fichierJSON": "livres/taghdia-tifl/livre.json",
-      "dateMAJ": "2026-10-15T15:12:59.247Z"
+      "dateMAJ": "2026-10-15T19:07:22.430Z"
     }
   ]
 }
