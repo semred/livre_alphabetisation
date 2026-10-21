@@ -1,0 +1,141 @@
+{
+  "id": "nutrition-enfant",
+  "titre": "تغذية الطفل",
+  "description": "",
+  "auteur": "سمار رضوان",
+  "niveau": "moyen",
+  "edgeVoice": "ar-DZ-AminaNeural",
+  "couverture": "livres/nutrition-enfant/couverture.jpg",
+  "pages": [
+    {
+      "numero": 1,
+      "titreSection": "أهمية الطعام",
+      "image": "livres/nutrition-enfant/page1.jpg",
+      "texteAffiche": "الطَّعَامُ هُوَ وَقُودُ الْجِسْمِ. يَحْتَاجُ الطِّفْلُ إِلَى طَعَامٍ صِحِّيٍّ لِيَنْمُوَ بِشَكْلٍ سَلِيمٍ. الْغِذَاءُ الْجَيِّدُ يُقَوِّي الْعِظَامَ وَالْعَضَلَاتِ، وَيَزِيدُ مِنْ نَشَاطِ الطِّفْلِ وَذَكَائِهِ.",
+      "audioPage": "livres/nutrition-enfant/page1.mp3",
+      "audioMode": "mp3",
+      "mots": [
+        {
+          "texte": "الطَّعَامُ",
+          "debut": 0.103,
+          "fin": 0.747
+        },
+        {
+          "texte": "هُوَ",
+          "debut": 0.761,
+          "fin": 0.997
+        },
+        {
+          "texte": "وَقُودُ",
+          "debut": 1.011,
+          "fin": 1.432
+        },
+        {
+          "texte": "الْجِسْمِ",
+          "debut": 1.445,
+          "fin": 2.076
+        },
+        {
+          "texte": "يَحْتَاجُ",
+          "debut": 3,
+          "fin": 3.526
+        },
+        {
+          "texte": "الطِّفْلُ",
+          "debut": 3.539,
+          "fin": 3.96
+        },
+        {
+          "texte": "إِلَى",
+          "debut": 3.974,
+          "fin": 4.224
+        },
+        {
+          "texte": "طَعَامٍ",
+          "debut": 4.237,
+          "fin": 4.724
+        },
+        {
+          "texte": "صِحِّيٍّ",
+          "debut": 4.737,
+          "fin": 5.303
+        },
+        {
+          "texte": "لِيَنْمُوَ",
+          "debut": 5.316,
+          "fin": 5.803
+        },
+        {
+          "texte": "بِشَكْلٍ",
+          "debut": 5.816,
+          "fin": 6.316
+        },
+        {
+          "texte": "سَلِيمٍ",
+          "debut": 6.329,
+          "fin": 7
+        },
+        {
+          "texte": "الْغِذَاءُ",
+          "debut": 7.921,
+          "fin": 8.474
+        },
+        {
+          "texte": "الْجَيِّدُ",
+          "debut": 8.487,
+          "fin": 9.013
+        },
+        {
+          "texte": "يُقَوِّي",
+          "debut": 9.026,
+          "fin": 9.474
+        },
+        {
+          "texte": "الْعِظَامَ",
+          "debut": 9.487,
+          "fin": 10.039
+        },
+        {
+          "texte": "وَالْعَضَلَاتِ",
+          "debut": 10.053,
+          "fin": 10.974
+        },
+        {
+          "texte": "وَيَزِيدُ",
+          "debut": 11.237,
+          "fin": 11.855
+        },
+        {
+          "texte": "مِنْ",
+          "debut": 11.868,
+          "fin": 12.013
+        },
+        {
+          "texte": "نَشَاطِ",
+          "debut": 12.026,
+          "fin": 12.434
+        },
+        {
+          "texte": "الطِّفْلِ",
+          "debut": 12.447,
+          "fin": 12.934
+        },
+        {
+          "texte": "وَذَكَائِهِ",
+          "debut": 12.947,
+          "fin": 13.763
+        }
+      ],
+      "edgeVoice": null,
+      "vocabulaire": [],
+      "exercices": [],
+      "notes": ""
+    }
+  ],
+  "resume": {
+    "texte": "",
+    "modeAudio": "mp3",
+    "audio": "",
+    "edgeVoice": "ar-DZ-AminaNeural"
+  }
+}
