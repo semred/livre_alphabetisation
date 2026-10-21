@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-15T22:43:43.862Z",
+  "derniereMAJ": "2026-10-21T21:25:20.068Z",
   "livres": [
     {
       "id": "taghdia-tifl",
@@ -12,6 +12,18 @@
       "nombrePages": 2,
       "fichierJSON": "livres/taghdia-tifl/livre.json",
       "dateMAJ": "2026-10-15T22:43:43.862Z"
+    },
+    {
+      "id": "nutrition-enfant",
+      "titre": "تغذية الطفل",
+      "description": "",
+      "couverture": "livres/nutrition-enfant/couverture.jpg",
+      "resume": "",
+      "niveau": "moyen",
+      "auteur": "سمار رضوان",
+      "nombrePages": 1,
+      "fichierJSON": "livres/nutrition-enfant/livre.json",
+      "dateMAJ": "2026-10-21T21:25:20.068Z"
     }
   ]
 }
