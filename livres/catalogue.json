@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-21T21:25:20.068Z",
+  "derniereMAJ": "2026-10-23T21:39:50.197Z",
   "livres": [
     {
       "id": "taghdia-tifl",
@@ -16,14 +16,14 @@
     {
       "id": "nutrition-enfant",
       "titre": "تغذية الطفل",
-      "description": "",
+      "description": "كتاب في متناول الجميع يتعرض بالشرح و التوجيهات لتغذية سليمة للطفل ",
       "couverture": "livres/nutrition-enfant/couverture.jpg",
       "resume": "",
       "niveau": "moyen",
       "auteur": "سمار رضوان",
       "nombrePages": 1,
       "fichierJSON": "livres/nutrition-enfant/livre.json",
-      "dateMAJ": "2026-10-21T21:25:20.068Z"
+      "dateMAJ": "2026-10-23T21:39:50.197Z"
     }
   ]
 }
