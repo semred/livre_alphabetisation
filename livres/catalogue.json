@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-23T21:39:50.197Z",
+  "derniereMAJ": "2026-10-23T21:44:26.991Z",
   "livres": [
     {
       "id": "taghdia-tifl",
@@ -23,7 +23,7 @@
       "auteur": "سمار رضوان",
       "nombrePages": 1,
       "fichierJSON": "livres/nutrition-enfant/livre.json",
-      "dateMAJ": "2026-10-23T21:39:50.197Z"
+      "dateMAJ": "2026-10-23T21:44:26.991Z"
     }
   ]
 }
