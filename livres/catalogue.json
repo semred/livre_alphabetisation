@@ -1,29 +1,5 @@
 {
   "derniereMAJ": "2026-10-23T21:44:26.991Z",
   "livres": [
-    {
-      "id": "taghdia-tifl",
-      "titre": "التَّغْذِيَةُ السَّلِيمَةُ لِلطِّفْلِ",
-      "description": "كِتَابٌ مُيَسَّرٌ لِلْآبَاءِ وَالْأُمَّهَاتِ، يَشْرَحُ أُسُسَ التَّغْذِيَةِ الصِّحِّيَّةِ لِلْأَطْفَالِ بِأُسْلُوبٍ بَسِيطٍ.",
-      "couverture": "livres/taghdia-tifl/couverture.jpg",
-      "resume": "يحتاج الطفل لغذاء متوازن و كافي و متنوع لينمو وبكون بصحة جيدة و يكون نشطا و ناجحا في دراسته",
-      "niveau": "moyen",
-      "auteur": "فَرِيقُ التَّوْعِيَةِ الصِّحِّيَّةِ",
-      "nombrePages": 2,
-      "fichierJSON": "livres/taghdia-tifl/livre.json",
-      "dateMAJ": "2026-10-15T22:43:43.862Z"
-    },
-    {
-      "id": "nutrition-enfant",
-      "titre": "تغذية الطفل",
-      "description": "كتاب في متناول الجميع يتعرض بالشرح و التوجيهات لتغذية سليمة للطفل ",
-      "couverture": "livres/nutrition-enfant/couverture.jpg",
-      "resume": "",
-      "niveau": "moyen",
-      "auteur": "سمار رضوان",
-      "nombrePages": 1,
-      "fichierJSON": "livres/nutrition-enfant/livre.json",
-      "dateMAJ": "2026-10-23T21:44:26.991Z"
-    }
-  ]
+     ]
 }
