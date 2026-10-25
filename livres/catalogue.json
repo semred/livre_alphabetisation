@@ -1,5 +1,5 @@
 {
-  "derniereMAJ": "2026-10-25T17:36:17.673Z",
+  "derniereMAJ": "2026-10-25T17:43:39.593Z",
   "livres": [
     {
       "id": "taghdhiya-atfal-alphabetisation",
@@ -11,7 +11,7 @@
       "auteur": "فريق التأليف",
       "nombrePages": 10,
       "fichierJSON": "livres/taghdhiya-atfal-alphabetisation/livre.json",
-      "dateMAJ": "2026-10-25T17:36:17.673Z"
+      "dateMAJ": "2026-10-25T17:43:39.593Z"
     }
   ]
 }
