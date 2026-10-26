@@ -6,6 +6,8 @@
   "niveau": "debutant",
   "edgeVoice": "ar-DZ-AminaNeural",
   "couverture": "livres/taghdhiya-atfal-alphabetisation/couverture.jpg",
+  "presentationAudio": "livres/taghdhiya-atfal-alphabetisation/presentation.mp3",
+  "presentationEdgeVoice": "ar-SA-HamedNeural",
   "pages": [
     {
       "numero": 1,
